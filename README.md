@@ -1,10 +1,27 @@
-- 👋 Hi, I’m @fatemebafghi
-- 👀 I’m interested in developoing machine learning projects using Python
-- 🌱 I’m continually learning state of the art in machine learning
-- 💞️ I’m looking to collaborate on image processing projects
-- 📫 you can reach me on fateme.bafghi1994@gmail.com
+# Hi, I'm Fateme Bafghi 👋
 
-<!---
-fatemebafghi/fatemebafghi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm an AI Engineer and Data Scientist who enjoys building AI systems that solve real-world problems.
+
+My experience spans **LLMs, AI Agents, RAG, Computer Vision, and Machine Learning**, from developing models to building and evaluating production systems.
+
+### 🔍 What I Work On
+
+- **LLMs & Agentic AI:** Building RAG applications, AI agents, multi-agent systems, and tool-calling workflows.
+- **Computer Vision:** Developing image analysis pipelines, VLM-based solutions, and optimized inference systems.
+- **Machine Learning & Data Science:** Working on forecasting, predictive modeling, experimentation, and optimization.
+- **Production AI:** Designing reliable AI services with a focus on evaluation, performance, scalability, and cost.
+
+### 🛠️ Tech Stack
+
+**Languages:** Python, SQL
+
+**AI & ML:** PyTorch, TensorFlow, Hugging Face, LangChain, LangGraph
+
+**Backend & Infrastructure:** FastAPI, Docker, PostgreSQL, Git, CI/CD
+
+**LLM & Retrieval:** RAG, Vector Databases, Tool Calling, Model Evaluation
+
+### ✍️ Writing & Connect
+
+- [LinkedIn](https://www.linkedin.com/in/fateme-bafghi)
+- [Medium](https://medium.com/@fatemebfg)
